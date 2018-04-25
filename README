@@ -1,0 +1,8 @@
+# circle-python-node
+
+A `ciecleci` build image which includes python + node.
+
+## Installed languages
+
+- python 3.6.1 + pip
+- node 8.9.1 LTS + npm
