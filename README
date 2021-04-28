@@ -4,5 +4,5 @@ A `ciecleci` build image which includes python + node.
 
 ## Installed languages
 
-- python 3.6.1 + pip
-- node 8.9.1 LTS + npm
+- python 3.6.12 + pip21.0.1
+- node 12.22.1 + npm
